@@ -1,9 +1,9 @@
-#Git Assignment- Practical 3
+# Git Assignment- Practical 3
 
 Estimating the area under a curve using the Trapezoidal rule. In this case the curve is tan(x) and we are integrating from 0 to pi/3.
 
-##Compile
+## Compile
 * gcc -o areaUnderCurveTrapezoidal.c areaUnderCurve -lm
 
-##Execute
+## Execute
 * ./areaUnderCurve

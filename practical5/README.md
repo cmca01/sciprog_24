@@ -13,4 +13,5 @@ gcc -o arctanh arctanh.c -lm
 
 ## Execute
 ./Fib
+
 ./arctanh

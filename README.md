@@ -7,4 +7,4 @@ ICHEC Introduction to Scientific Programming Concepts Module
 
 ## Introduction
 
-This is my repo for 24/25 Scientific Programming Conecpts
+This is my repo for 24/25 Scientific Programming Concepts

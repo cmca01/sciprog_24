@@ -4,8 +4,8 @@ This folder contains practical 2 codes.
 
 ## Compile:
 
-* gcc -o Conversion.c Conversion -lm
-* gcc -o Sum.c Sum -lm
+* gcc -o Conversion Conversion.c -lm
+* gcc -o Sum Sum.c -lm
 
 ## Execute
 * ./Conversion
